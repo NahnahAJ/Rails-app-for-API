@@ -7,9 +7,9 @@ class Api::V1::GreetingsController < ApplicationController
   def create
     @greeting = Greeting.create(greeting_params)
     if @greeting.save
-    render json: @greeting
+      render json: @greeting
     else
-      render json: {error: 'Error creating greeting'}
+      render json: { error: 'Error creating greeting' }
     end
   end
 
