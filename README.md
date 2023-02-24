@@ -13,6 +13,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [Link to React App](#react-app)
     [Video Demo](#video-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -70,6 +71,9 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > N/A
+
+## Link to React App <a name="react-app"></a>
+> [React App](https://github.com/NahnahAJ/React-app-for-UI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
